@@ -1,2 +1,2 @@
 # dsmeta-frontend
-Projeto criado durante um curso na DevSuperior
+Frontend da aplicação criada durante a Semana Spring React da DevSuperior
